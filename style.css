@@ -1,4 +1,7 @@
 body{
     background-color: rgb(240, 102, 159);
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: medium;
+    font-weight: bold;
+    color: rgb(116, 6, 52);
 }
